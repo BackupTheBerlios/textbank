@@ -18,6 +18,7 @@ const char*	gAppAuthorEnUs = "SHINTA";
 /*=== Memo =====================================================================
 NEXT:
 
+ヘルプファイル名を TextBank_jaJP.htm にする
 デスクトレイに入れるように
 ツールバーより先にメインビューを AddChild() しないと LanguageChanged が呼び出されないなどの弊害がある
 
